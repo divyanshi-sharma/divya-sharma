@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/divya-sharma/precache-manifest.c6ca6fda3f17f62d909ce6d5dfb1e729.js"
+  "/divya-sharma/precache-manifest.27464184200b9c380ddf94110fb12f98.js"
 );
 
 self.addEventListener('message', (event) => {

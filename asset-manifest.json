@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/divya-sharma/static/css/main.4c06d665.chunk.css",
-    "main.js": "/divya-sharma/static/js/main.86d8963c.chunk.js",
-    "main.js.map": "/divya-sharma/static/js/main.86d8963c.chunk.js.map",
+    "main.css": "/divya-sharma/static/css/main.a0b10499.chunk.css",
+    "main.js": "/divya-sharma/static/js/main.d46e1bd3.chunk.js",
+    "main.js.map": "/divya-sharma/static/js/main.d46e1bd3.chunk.js.map",
     "runtime-main.js": "/divya-sharma/static/js/runtime-main.caba0634.js",
     "runtime-main.js.map": "/divya-sharma/static/js/runtime-main.caba0634.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/divya-sharma/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.ce05594c.chunk.js": "/divya-sharma/static/js/2.ce05594c.chunk.js",
-    "static/js/2.ce05594c.chunk.js.map": "/divya-sharma/static/js/2.ce05594c.chunk.js.map",
+    "static/js/2.547ce69d.chunk.js": "/divya-sharma/static/js/2.547ce69d.chunk.js",
+    "static/js/2.547ce69d.chunk.js.map": "/divya-sharma/static/js/2.547ce69d.chunk.js.map",
     "index.html": "/divya-sharma/index.html",
-    "precache-manifest.c6ca6fda3f17f62d909ce6d5dfb1e729.js": "/divya-sharma/precache-manifest.c6ca6fda3f17f62d909ce6d5dfb1e729.js",
+    "precache-manifest.27464184200b9c380ddf94110fb12f98.js": "/divya-sharma/precache-manifest.27464184200b9c380ddf94110fb12f98.js",
     "service-worker.js": "/divya-sharma/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/divya-sharma/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.4c06d665.chunk.css.map": "/divya-sharma/static/css/main.4c06d665.chunk.css.map",
-    "static/js/2.ce05594c.chunk.js.LICENSE.txt": "/divya-sharma/static/js/2.ce05594c.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/divya-sharma/static/media/Logo.2a8e944f.png",
+    "static/css/main.a0b10499.chunk.css.map": "/divya-sharma/static/css/main.a0b10499.chunk.css.map",
+    "static/js/2.547ce69d.chunk.js.LICENSE.txt": "/divya-sharma/static/js/2.547ce69d.chunk.js.LICENSE.txt",
     "static/media/eventsImg.png": "/divya-sharma/static/media/eventsImg.31c49332.png",
     "static/media/farFromHomeImg.png": "/divya-sharma/static/media/farFromHomeImg.10d6ff3a.png",
     "static/media/luraImg.png": "/divya-sharma/static/media/luraImg.eb368bd4.png",
-    "static/media/pinkishPhoto.JPG": "/divya-sharma/static/media/pinkishPhoto.a60d35db.JPG"
+    "static/media/pinkLakePhoto.JPG": "/divya-sharma/static/media/pinkLakePhoto.b183a55f.JPG",
+    "static/media/selflogo2.png": "/divya-sharma/static/media/selflogo2.b305eab8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.caba0634.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.ce05594c.chunk.js",
-    "static/css/main.4c06d665.chunk.css",
-    "static/js/main.86d8963c.chunk.js"
+    "static/js/2.547ce69d.chunk.js",
+    "static/css/main.a0b10499.chunk.css",
+    "static/js/main.d46e1bd3.chunk.js"
   ]
 }
